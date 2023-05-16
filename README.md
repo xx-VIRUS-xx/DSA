@@ -11,3 +11,4 @@ Python
 - Selectiion Sort
 - Insertion Sort
 - Merge Sort
+- Counting Sort
