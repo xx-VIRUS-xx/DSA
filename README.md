@@ -1,5 +1,5 @@
 # DSA
-Language: Python
+Python
 - Stack
 - Queue
 - Linked List
