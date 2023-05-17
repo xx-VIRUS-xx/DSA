@@ -12,3 +12,5 @@ Python
 - Insertion Sort
 - Merge Sort
 - Counting Sort
+- Radix Sort
+- Bucket Sort
