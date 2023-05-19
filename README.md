@@ -14,3 +14,5 @@ Python
 - Counting Sort
 - Radix Sort
 - Bucket Sort
+- Heap Sort
+- Shell Sort
