@@ -17,5 +17,10 @@ Python
 - Heap Sort
 - Shell Sort
 - Binary Search
-- Ford Fulkerson algorithm
-- Dijkstra's Algorithm
+- Ford Fulkerson algorithm (Greedy Algorithm)
+- Dijkstra's Algorithm (Greedy Algorithm)
+- Prim's Algorithm (Greedy Algorithm)
+- Kruskal's Algorithm (Greedy Algorithm)
+- Huffman Coding (Greedy Algorithm)
+- WFI (Dynamic Programming)
+- Longest Common Subsequence (Dynamic Programming)
