@@ -18,3 +18,4 @@ Python
 - Shell Sort
 - Binary Search
 - Ford Fulkerson algorithm
+- Dijkstra's Algorithm
