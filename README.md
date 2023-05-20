@@ -16,3 +16,4 @@ Python
 - Bucket Sort
 - Heap Sort
 - Shell Sort
+- Binary Search
