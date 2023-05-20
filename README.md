@@ -17,3 +17,4 @@ Python
 - Heap Sort
 - Shell Sort
 - Binary Search
+- Ford Fulkerson algorithm
