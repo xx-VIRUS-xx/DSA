@@ -24,4 +24,4 @@ Python
 - Huffman Coding (Greedy Algorithm)
 - WFI (Dynamic Programming)
 - Longest Common Subsequence (Dynamic Programming)
-- Rabin Karp
+- Rabin Karp Algorithm
